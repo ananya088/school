@@ -1,0 +1,10 @@
+The main difference is: Git is a tool; GitHub is an online platform that uses Git.
+
+Git                                            GitHub
+----------------------------------------------------------------------------------------------------
+Version-control software                       Website/cloud platform
+Runs on your computer                          Mainly hosted online
+Tracks changes in files/code                   Stores and shares Git repositories
+Can work without internet                      Usually requires internet for collaboration
+Commands include git add, git commit, git push Provides pull requests, issues, code reviews, Actions, etc.
+Open-source                                    A service owned by Microsoft
